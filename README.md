@@ -15,8 +15,6 @@ Please keep these things in mind while creating a pull request:
 
 2. Describe the changes that you have made in accordance with the task briefly.
 
-3. Include screenshots/videos/GIFs in your pull requests to support your task submissions.
-
 
 # General Rules and Instructions
 1. If at any point of time, a participant tries to copy other participants' submission, it will lead to immediate disqualification of the   participant from the event.
