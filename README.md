@@ -1,5 +1,5 @@
-# Libre-Marathon-ByteIT-2019
-The Official Repository of Byte.IT 2019's Libre Marathon
+# Relay-Libre-ByteIT-2019
+The Official Repository of Byte.IT 2019's Relay Libre
 
 # Participation Guide
 Please follow these steps to get started:
@@ -21,7 +21,7 @@ Please keep these things in mind while creating a pull request:
 2. The first submission of each task will be awarded more bonus points than those awarded to the subsequent submissions. The only exception to this rule would be if the non-first submission is a really high-quality submission, in that case the same amount of points as the first one will be awarded to that participant.
 
 
-More details are available at [insert drive link here]
+More details are available at https://docs.google.com/document/d/1cTqFwzXlJWIIiygdF7rT_86gcQE3Pnpko_vhGiKVBo4/edit?usp=sharing
 
 # Updates
 1. The competition will end at 11:59:59 PM, 22nd July 2019.
