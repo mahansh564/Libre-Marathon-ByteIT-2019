@@ -1,0 +1,5 @@
+A very intriguing feature that the digital assistants of this age lack is the ability to read human emotions.
+
+The USP for Voithos could be its ability to discern how the user is feeling through their voice. Voithos could then accordingly provide a response which is appropriate as to the mood of the user. This could be useful in many day-to-day situations and would lend Voithos an identifying feature that machines are generally not expected to possess. 
+
+For Ex - A user could ask Voithos to play some music and by analyzing the tone of the user's voice, Voithos could automatically play some joyful or uplifting music if it were to detect that the user is feeling sad. Another example could be when a user asks Voithos to search for movies to watch online and Voithos detects that the user is angry. It would then play some Romantic movies to soothe him down.
